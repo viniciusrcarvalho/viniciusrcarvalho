@@ -33,3 +33,4 @@
   <a href="https://instagram.com/vinicinn1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viniciusrcarvalho" height="20" width="20" /></a>
   </div>
   
+  ![Snake animation](https://github.com/viniciusrcarvalho/viniciusrcarvalho/blob/output/github-contribution-grid-snake.svg)
